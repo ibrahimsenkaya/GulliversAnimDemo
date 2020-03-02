@@ -77,10 +77,8 @@
     <Compile Include="Assets\Epic Toon FX\Epic Toon FX\Scripts\ETFXRotation.cs" />
     <Compile Include="Assets\EpicVictoryEffects\Scripts\starFxController.cs" />
     <Compile Include="Assets\EpicVictoryEffects\Scripts\vfxController.cs" />
-    <Compile Include="Assets\Scripts\CardAnimController.cs" />
     <Compile Include="Assets\Scripts\Chest2\CardAnim.cs" />
     <Compile Include="Assets\Scripts\Chest2\ChestAnim.cs" />
-    <Compile Include="Assets\Scripts\ChestAnimController.cs" />
     <None Include="Assets\Epic Toon FX\Epic Toon FX\Prefabs\Combat\Combat FX.txt" />
     <None Include="Assets\EpicVictoryEffects\Readme.txt" />
     <None Include="Assets\Epic Toon FX\Epic Toon FX\ETFX Readme.txt" />
