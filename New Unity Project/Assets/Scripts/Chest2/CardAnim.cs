@@ -15,7 +15,7 @@ public class CardAnim : MonoBehaviour
 
     public void ChargeIt()
     {
-        Instantiate(Glow, new Vector3(0,.2f,-1f), Quaternion.identity);
+        Instantiate(Glow, new Vector3(0,.37f,-1f), Quaternion.identity);
         Chargepart.Play();
       
     }
